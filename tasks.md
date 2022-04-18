@@ -8,7 +8,7 @@ Typically, students are asked to complete the following tasks during a project:
 - [Literature review](../literature-review)
 - [Research Plan](../research-plan)
 - [Data Access](../data-access)
-- [Experiments](../experiments)
+- [Experiments](../experiments)/data collection
 - [Project Report](../project-report)
 - [Project Presentation](../project-presentation)
 - [Conference Submission](../conference-submission)
